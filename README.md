@@ -1,4 +1,7 @@
-# X48-Auto-ReSync-Windows-Time
+# **X48-Auto-ReSync-Windows-Time**
+
+## ***การใช้งานต้อง Run as Admin เท่านั้นนนนนนนนนนน***
+
 ## == How To ==
     วิธีใช้งาน (Python)
         1.) เปิด CMD โดย Run As Admin เพื่อให้สิทธิการเข้าถึง Services.msc ของ Windows
